@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kowali\\JavaScript\\" : "src/Kowali/JavaScript/"
+            "Kowali\\Permissions\\" : "src/Kowali/Permissions/"
         }
     },
     "minimum-stability": "stable"
